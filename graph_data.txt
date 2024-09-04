@@ -1,0 +1,15 @@
+#c:/Users/chatu/Desktop/Find-Shortest-Path/shortest_path.py
+# GMT Wed Sep  4 04:18:59 2024
+# 
+z1s1 z1s2 z1s3 z1s4 e1 z2s8 z2s9
+z1s2 z1s4 z1s3 z2s6 z2s8
+z1s3 z1s4 z1s5 z2s6 z2s8 z2s9 z2s10
+z1s4 z1s5 z2s9
+z1s5 z2s7
+z2s6 z2s8 z2s9 z2s10 z2s7
+z2s7 z2s10
+z2s8 z2s9 z2s10 e2
+z2s9
+z2s10
+e1
+e2
