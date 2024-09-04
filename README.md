@@ -1,5 +1,11 @@
 # Shortest Path Finder in Random Graphs
 
+[![LinkedIn][linkedin-shield]][linkedin-url]
+[![Instagram][instagram-shield]][instagram-url]
+[![Twitter][twitter-shield]][twitter-url]
+[![YouTube][youtube-shield]][youtube-url]
+[![Telegram][telegram-shield]][telegram-url]
+
 ![Shortest Path Finder](https://github.com/user-attachments/assets/3ddbaca8-1a50-4c0f-bb23-f7cafaf17d8b)
 
 ## 🚀 Project Overview
@@ -92,4 +98,27 @@ Contributions, issues, and feature requests are welcome! Future improvements may
 ## 📢 Acknowledgments
 
 This project would not have been possible without the support of the Honeybell team and the amazing opportunities provided during the Hackathon.
+
+
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=0B5FBB
+[linkedin-url]: https://www.linkedin.com/in/anubhav-chaturvedi-/
+
+<!-- Instagram -->
+
+[instagram-shield]: https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white
+[instagram-url]: https://www.instagram.com/_anubhav__chaturvedi_/
+
+<!-- Twitter -->
+
+[twitter-shield]: https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white
+[twitter-url]: https://x.com/AnubhavChatu
+
+
+<!-- YouTube -->
+[youtube-shield]: https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white
+[youtube-url]: https://www.youtube.com/@NetHyTech
+
+<!-- Telegram -->
+[telegram-shield]: https://img.shields.io/badge/Telegram-%231DA1F2.svg?style=for-the-badge&logo=Telegram&logoColor=white
+[telegram-url]: https://t.me/YourTelegramUsername
 
